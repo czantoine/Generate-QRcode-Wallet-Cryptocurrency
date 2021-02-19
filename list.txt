@@ -20,7 +20,6 @@ DAI
 Maker
 Dash
 Zcash
-0xProject
 Ren
 Loopring
 Civic
