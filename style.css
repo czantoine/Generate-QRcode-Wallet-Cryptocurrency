@@ -1,0 +1,24 @@
+body{}
+
+h3{
+	font-family: Arial, sans-serif;
+	color: #383838;
+	text-align: center;
+}
+
+h3:hover{
+	color:black;
+}
+
+#Bitcoin{
+	display: inline-block;
+}
+
+#ethereum{
+	display: inline-block;
+}
+
+#dogecoin{
+	display: inline-block;
+}
+

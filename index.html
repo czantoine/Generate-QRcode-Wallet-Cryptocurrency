@@ -1,0 +1,43 @@
+<html>
+<head>
+  <title>Generate your qr code</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <script src="fichier.js"></script>
+  <meta name="author" content="czantoine">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <div id="bitcoin"></div>
+  <script type="text/javascript">
+    if (bitcoin == "") {
+    }
+    else{
+      document.getElementById('bitcoin').innerHTML = '<img src="https://api.qrserver.com/v1/create-qr-code/?data=' + bitcoin + '&amp;size=100x100"" alt="" title="Bitcoin" /> <h3>Bitcoin</h3>';
+    }
+  </script>
+
+  <div id="ethereum"></div>
+  <script type="text/javascript">
+    if (ethereum == "") {
+    }
+    else{
+      document.getElementById('ethereum').innerHTML = '<img src="https://api.qrserver.com/v1/create-qr-code/?data=' + ethereum + '&amp;size=100x100"" alt="" title="Bitcoin" /> <h3>Ethereum</h3>';
+    }
+  </script>
+
+  <div id="ddogecoin"></div>
+  <script type="text/javascript">
+    if (dogecoin == "") {
+    }
+    else{
+      document.getElementById('dogecoin').innerHTML = '<img src="https://api.qrserver.com/v1/create-qr-code/?data=' + dogecoin + '&amp;size=100x100"" alt="" title="Dogecoin" /> <h3>Dogecoin</h3>';
+    }
+  </script>
+  
+</body>
+</html>
+
+
