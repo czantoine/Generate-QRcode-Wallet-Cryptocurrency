@@ -10,15 +10,104 @@ h3:hover{
 	color:black;
 }
 
-#Bitcoin{
+#Bitcoin {
+	display: inline-block;
+}
+#Ethereum {
+	display: inline-block;
+}
+#Dogecoin {
+	display: inline-block;
+}
+#Binance_Coin {
+	display: inline-block;
+}
+#Tether {
+	display: inline-block;
+}
+#Litecoin {
+	display: inline-block;
+}
+#Cardano {
+	display: inline-block;
+}
+#Stellar {
+	display: inline-block;
+}
+#Chainlink {
+	display: inline-block;
+}
+#Basic_Attention_Token {
+	display: inline-block;
+}
+#Ripple {
+	display: inline-block;
+}
+#Enjin {
+	display: inline-block;
+}
+#EOS {
+	display: inline-block;
+}
+#Monero {
+	display: inline-block;
+}
+#Tezos {
+	display: inline-block;
+}
+#Vechain {
+	display: inline-block;
+}
+#Cosmos {
+	display: inline-block;
+}
+#NEO {
+	display: inline-block;
+}
+#DAI {
+	display: inline-block;
+}
+#Maker {
+	display: inline-block;
+}
+#Dash {
+	display: inline-block;
+}
+#Zcash {
+	display: inline-block;
+}
+#0xProject {
+	display: inline-block;
+}
+#Ren {
+	display: inline-block;
+}
+#Loopring {
+	display: inline-block;
+}
+#Civic {
+	display: inline-block;
+}
+#FunFair {
+	display: inline-block;
+}
+#Polygon {
+	display: inline-block;
+}
+#Status {
+	display: inline-block;
+}
+#Metal {
+	display: inline-block;
+}
+#Propy {
+	display: inline-block;
+}
+#SunContract {
+	display: inline-block;
+}
+#OmiseGO {
 	display: inline-block;
 }
 
-#ethereum{
-	display: inline-block;
-}
-
-#dogecoin{
-	display: inline-block;
-}
 
