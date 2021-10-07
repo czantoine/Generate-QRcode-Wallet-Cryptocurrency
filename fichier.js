@@ -1,5 +1,5 @@
-let Bitcoin = "1HnfD3dN5swtfRpDYhdPNNZPwY6TWchzoo";
-let Ethereum = "0x514a079909c00168800E4db700385e91f84af4f5";
+let Bitcoin = "bc1qtclnu8nzhluklvvcs87mgzjk8enjmg52c5vwgt";
+let Ethereum = "0xaef43954C3E718d57bFE4d0011b58cD5A9f32Ad3";
 let Dogecoin = "";
 let Binance_Coin = "";
 let Tether = "";
