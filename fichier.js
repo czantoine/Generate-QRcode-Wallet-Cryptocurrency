@@ -1,6 +1,6 @@
 let Bitcoin = "bc1qtclnu8nzhluklvvcs87mgzjk8enjmg52c5vwgt";
 let Ethereum = "0xaef43954C3E718d57bFE4d0011b58cD5A9f32Ad3";
-let Dogecoin = "";
+let Dogecoin = "DFnWmF9kuix9vUcvFNjQqYZW5jmeoSs5WR";
 let Binance_Coin = "";
 let Tether = "";
 let Litecoin = "";
